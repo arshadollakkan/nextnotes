@@ -1,0 +1,24 @@
+nextjs
+----------------------
+1.server side rendering
+2.file based rendering
+3.initial time less
+
+sever side rendering
+-------------------------
+app folderil ulla filesum by default sever side aomponents ann ath serveril ann store avunnath request kodukkkumbol serveril ninn ann page varunnath
+
+client side components
+----------------------
+user interaction vendiyann main ayitt client side components ubayokikkunnath. 'use client?'; ith ubayogichal ath client side component avum
+
+dynamic page routing
+-----------------------
+ 
+http://localhost3000/home/product/(100 or102 or 103) 
+ ee urlil product kayinn serch cheyyumbol id  vech 103 pagugal undakkanam,library management systetile useparams ubayokikkunnath pole ubayo
+ghikkanann dynamic page id vech nextil undakkunnath(edit>vebdiary>3project<library) athinayi product folderinte ullil oru folder undakkugha
+ath inghane eyuthanam eg:[foldername] 
+ athinn shesham ith ubayoghikkugha.
+
+eg:ecomers websitile product pageinte details
